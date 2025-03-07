@@ -56,11 +56,11 @@ const ProjectCard = ({
                 className="bg-night sm:w-11 sm:h-11 w-10 h-10 rounded-full 
                   flex justify-center items-center cursor-pointer
                   sm:opacity-[0.9] opacity-[0.8]">
-                <img
+                {/* <img
                   src={github}
                   alt="source code"
                   className="w-4/5 h-4/5 object-contain"
-                />
+                /> */}
               </div>
             </div>
 
@@ -101,7 +101,7 @@ const ProjectCard = ({
                 className="btn-icon sm:w-[34px] sm:h-[34px] 
                   w-[30px] h-[30px] object-contain"
               />
-              LIVE DEMO
+              Lire  PODCAST
             </button>
           </div>
         </>
