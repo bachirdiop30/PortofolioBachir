@@ -124,11 +124,10 @@ const Projects = () => {
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          These projects demonstrate my expertise with practical examples of
-          some of my work, including brief descriptions and links to code
-          repositories and live demos. They showcase my ability to tackle
-          intricate challenges, adapt to various technologies, and efficiently
-          oversee projects.
+          Découvrez une sélection de mes projets illustrant mon expertise à travers des cas concrets. 
+          Chaque projet met en avant ma capacité à résoudre des défis complexes, 
+          à m’adapter à différentes technologies et à gérer efficacement le développement, 
+          avec des liens vers le code source et des démonstrations en ligne.
         </motion.p>
       </div>
 
