@@ -20,10 +20,6 @@ All projects and experiences included in this portfolio are the result of my own
 - Framer Motion
 - TailwindCSS
 
-## Live Demo
-
-- Click [here](https://shaq-portfolio.netlify.app/) to view the live demo.
-
 ## Getting Started
 
 To get started with this portfolio template, follow these simple steps:
@@ -82,12 +78,6 @@ npm run preview
 ```
 
 ## Authors
-
-👤 **Shaquille Ndunda**
-
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
 
 ## Feedback and Contributions
 
